@@ -2,7 +2,7 @@
 
 > LoverConnect 的二改分支，在原作者基础上新增 **应用锁** 和 **前台检测** 功能。
 > 
-> 一个让小机可以实现“再给你玩15min小红书就去睡觉”的小工具。不用再唤醒小计锁定app。
+> 一个让小机可以实现“再给你玩15min小红书就去睡觉”的小工具。不用再唤醒小机锁定app。
 >
 > 原项目：[LoverConnect](https://github.com/LoverConnect/LoverConnect) — 一个专为陪伴型AI设计的 Android MCP 工具 App
 >
