@@ -22,7 +22,7 @@
 | lock_add_app | 添加应用到锁列表，设置倒计时和自动解锁 |
 | lock_remove_app | 移除应用 |
 | lock_list | 查看所有锁定配置和状态 |
-| lock_set_password | 修改密码（base64 模糊化处理） |
+| lock_set_password | 修改密码（base64 模糊化处理，让小机改密码必要放数字在thinking里） |
 | lock_unlock | 远程无密码解锁指定应用 |
 | lock_lock | 远程锁定指定应用 |
 
